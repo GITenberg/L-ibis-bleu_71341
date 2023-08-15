@@ -5,6 +5,9 @@ contributor:
     agent_name: Couturier, Leon
     gutenberg_agent_id: '56183'
     url: http://www.gutenberg.org/2009/agents/56183
+covers:
+- cover_type: archival
+  image_path: 71341-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Aicard
     - https://fr.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71341#L-ibis-bleu
 gutenberg_issued: '2023-08-04'
 identifiers:
   gutenberg: '71341'
